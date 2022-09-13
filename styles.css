@@ -7,9 +7,11 @@
 section {
     background-color: lightgrey;
     width: 80%;
+    height: 200px;
     margin: 50px auto; /*center section in a middle of the page*/
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
 }
 
 div {
